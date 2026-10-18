@@ -1,0 +1,30 @@
+# Ignore data and weights
+Data/
+Weights/
+Models/
+*.pt
+*.onnx
+*.engine
+*.mp4
+
+# Ignore notebooks and documentation
+Notebooks/
+*.ipynb
+.ipynb_checkpoints/
+
+# Ignore python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Ignore git and IDE configurations
+.git/
+.gitignore
+.vscode/
+.idea/
+.DS_Store

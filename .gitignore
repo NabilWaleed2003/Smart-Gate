@@ -1,0 +1,23 @@
+# Ignore large model weights
+Weights/
+Models/
+*.pt
+*.onnx
+*.engine
+
+# Ignore dataset and temporary data
+Data/
+raw/
+processed/
+*.mp4
+
+# Python environment & cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/

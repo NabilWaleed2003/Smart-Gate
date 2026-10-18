@@ -1,0 +1,26 @@
+# Deep Learning & Computer Vision
+ultralytics
+torch
+torchvision
+lightning
+
+# Model Optimization & Deployment
+onnx
+onnxscript
+onnxsim
+onnxruntime-gpu
+tensorrt
+
+# Web API & Server
+fastapi
+uvicorn
+python-multipart
+requests
+httpx
+
+# Utilities
+numpy
+pillow
+opencv-python
+matplotlib
+pyyaml
